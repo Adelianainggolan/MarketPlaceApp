@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "352105519381",
+    "firebase_url": "https://marketplaceapp-cbd66.firebaseio.com",
+    "project_id": "marketplaceapp-cbd66",
+    "storage_bucket": "marketplaceapp-cbd66.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352105519381:android:e0a5dd6395760bc627f11c",
+        "android_client_info": {
+          "package_name": "com.adelia.nainggolan.marketplaceapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "352105519381-i7ptimrnhi5du62v4ucvjbcmdbcs8525.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.adelia.nainggolan.marketplaceapp",
+            "certificate_hash": "8b1a43074432d1e7c0c302b475b1a4cd5260828a"
+          }
+        },
+        {
+          "client_id": "352105519381-gefm6f8ckn4754eistg3c0poggn592nj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdn2ncgmnBXGOfmhJ2xACTVHUcMWhCatU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "352105519381-gefm6f8ckn4754eistg3c0poggn592nj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
